@@ -1,0 +1,11 @@
+D:\P5_1_1204007\P5_1_1204007_Host\bin\Debug\P5_1_1204007_Host.exe.config
+D:\P5_1_1204007\P5_1_1204007_Host\bin\Debug\P5_1_1204007_Host.exe
+D:\P5_1_1204007\P5_1_1204007_Host\bin\Debug\P5_1_1204007_Host.pdb
+D:\P5_1_1204007\P5_1_1204007_Host\bin\Debug\P5_1_1204007.dll
+D:\P5_1_1204007\P5_1_1204007_Host\bin\Debug\P5_1_1204007.pdb
+D:\P5_1_1204007\P5_1_1204007_Host\obj\Debug\P5_1_1204007_Host.csprojResolveAssemblyReference.cache
+D:\P5_1_1204007\P5_1_1204007_Host\obj\Debug\P5_1_1204007_Host.Form1.resources
+D:\P5_1_1204007\P5_1_1204007_Host\obj\Debug\P5_1_1204007_Host.Properties.Resources.resources
+D:\P5_1_1204007\P5_1_1204007_Host\obj\Debug\P5_1_1204007_Host.csproj.GenerateResource.Cache
+D:\P5_1_1204007\P5_1_1204007_Host\obj\Debug\P5_1_1204007_Host.exe
+D:\P5_1_1204007\P5_1_1204007_Host\obj\Debug\P5_1_1204007_Host.pdb
