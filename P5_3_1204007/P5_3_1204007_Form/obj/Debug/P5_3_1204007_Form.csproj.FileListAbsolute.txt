@@ -1,0 +1,11 @@
+D:\P5_3_1204007\P5_3_1204007_Form\obj\Debug\P5_3_1204007_Form.csprojResolveAssemblyReference.cache
+D:\P5_3_1204007\P5_3_1204007_Form\obj\Debug\P5_3_1204007_Form.Form1.resources
+D:\P5_3_1204007\P5_3_1204007_Form\obj\Debug\P5_3_1204007_Form.Properties.Resources.resources
+D:\P5_3_1204007\P5_3_1204007_Form\obj\Debug\P5_3_1204007_Form.csproj.GenerateResource.Cache
+D:\P5_3_1204007\P5_3_1204007_Form\bin\Debug\P5_3_1204007_Form.exe.config
+D:\P5_3_1204007\P5_3_1204007_Form\bin\Debug\P5_3_1204007_Form.exe
+D:\P5_3_1204007\P5_3_1204007_Form\bin\Debug\P5_3_1204007_Form.pdb
+D:\P5_3_1204007\P5_3_1204007_Form\bin\Debug\P5_3_1204007.dll
+D:\P5_3_1204007\P5_3_1204007_Form\bin\Debug\P5_3_1204007.pdb
+D:\P5_3_1204007\P5_3_1204007_Form\obj\Debug\P5_3_1204007_Form.exe
+D:\P5_3_1204007\P5_3_1204007_Form\obj\Debug\P5_3_1204007_Form.pdb
